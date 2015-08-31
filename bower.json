@@ -1,0 +1,15 @@
+{
+  "name": "ETI",
+  "version": "0.0.0",
+  "authors": [
+    "Sergey Rastrigin <srastrigin@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

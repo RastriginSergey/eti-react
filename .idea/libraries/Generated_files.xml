@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/gulpfile-compiled.js" />
+      <root url="file://$PROJECT_DIR$/js/components/GraphController-compiled.js" />
+      <root url="file://$PROJECT_DIR$/js/components/MainGraph-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
