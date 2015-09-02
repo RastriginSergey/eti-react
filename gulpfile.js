@@ -7,7 +7,7 @@ var reactify = require('reactify');
 
 gulp.task('default', function () {
     var bundler = watchify(browserify({
-        entries: ['./js/app.jsx'],
+        entries: ['./js/components/App.jsx'],
         transform: [reactify],
         extensions: ['.jsx'],
         debug: true,
